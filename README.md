@@ -12,6 +12,12 @@ This game were made to study the [pygame module](https://www.pygame.org/docs/).
 * Use the Space button or Up arrow to jump.
 * Use Left or Right to slide between monsters.
 
+##ScreenShots
+<img src="https://raw.githubusercontent.com/MahmoudNasrAly/Pixel-Runner/main/src/assets/SC1.jpg" alt="Screenshot 1" width="500"/>
+<img src="https://raw.githubusercontent.com/MahmoudNasrAly/Pixel-Runner/main/src/assets/SC2.jpg" alt="Screenshot 1" width="500"/>
+<img src="https://raw.githubusercontent.com/MahmoudNasrAly/Pixel-Runner/main/src/assets/SC3.jpg" alt="Screenshot 1" width="500"/>
+
+
 ## Installation
 
 ### Windows
